@@ -6,3 +6,6 @@ git status
 git add -A
 git commit -m
 git --version
+git log
+github
+local repository
