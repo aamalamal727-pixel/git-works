@@ -10,3 +10,5 @@ git log
 github
 local repository
 git-works
+git remote -v
+git branch
